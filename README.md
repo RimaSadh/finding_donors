@@ -1,5 +1,5 @@
-# Project: Finding Donors for CharityML
-# Supervised Machine Learning
+# Finding Donors for CharityML
+# Supervised Machine Learning Project
 
 ### Data
 
